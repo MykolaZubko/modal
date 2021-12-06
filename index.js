@@ -63,9 +63,6 @@ document.addEventListener('click', event => {
             console.log('Cancel')
         })
 
-      //  confirmModal.setContent(`
-      //  <p>Вы удаляете автомобиль: <strong>${automobi.title}</strong></p>
-      //  `)
-      //  confirmModal.open()
+      
     }
 })
